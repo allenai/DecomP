@@ -1,0 +1,14 @@
+Q: Concatenate ["A", "l", "a", "n"].
+A: "Alan"
+
+Q: Concatenate ["b", "x", "o"] using a space.
+A: "b x o"
+
+Q: Concatenate ["a", "a", "g"] using a comma.
+A: "a,a,g"
+
+Q: Concatenate ["Alan", "Mathison", "Turing"] using a space.
+A: "Alan Mathison Turing"
+
+Q: Concatenate ["Allen", "Institute"].
+A: "AllenInstitute"

@@ -1,0 +1,17 @@
+Q: What is at position 4 in "[("Colorless", 1), ("green", 2), ("ideas", 3), ("sleep", 4), ("furiously", 5)]"?
+A: "sleep"
+
+Q: What is at position 1 in "[(M, 1), (a, 2), (t, 3), (h, 4), (i, 5), (s, 6), (o, 7), (n, 8)]"?
+A: "M"
+
+Q: What is at the last position in "[(A, 1), (u, 2), (g, 3), (u, 4), (s, 5), (t, 6), (a, 7)]"?
+A: "a"
+
+Q: What is at position 1 in "[(Herbert, 1), (Alexander, 2), (Simon, 3)]"?
+A: "Herbert"
+
+Q: What is at last position in "[(Allen, 1), (Institute, 2), (for, 3), (Artificial, 4), (Intelligence, 5)]"?
+A: "Intelligence"
+
+Q: What is at position 4 in "[(A, 1), (l, 2), (e, 3), (x, 4), (a, 5), (n, 6), (d, 7), (e, 8), (r, 9)]"?
+A: "x"

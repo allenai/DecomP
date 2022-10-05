@@ -1,0 +1,14 @@
+QC: Take the last letters of the words in "Augusta Ada King" and concatenate them using a space.
+QS: The words in "Augusta Ada King" are "Augusta", "Ada" and "King". The letters and their positions in "Augusta" are "[(A, 1), (u, 2), (g, 3), (u, 4), (s, 5), (t, 6), (a, 7)]". The last letter in this sequence is "a". The letters and their positions in "Ada" are "[(A, 1), (d, 2), (a, 3)]". The last letter in this sequence is "a". The letters and their positions in "King" are "[(K, 1), (i, 2), (n, 3), (g, 4)]". The last letter in this sequence is "g". Concatenating "a", "a", "g" using a space leads to "a a g". So, "Augusta Ada King" outputs "a a g".
+A: "a a g"
+QS: [EOQ]
+
+QC: Take the letters at position 1 of the words in "Alan Mathison Turing" and concatenate them using a space.
+QS: The words in "Alan Mathison Turing" are "Alan", "Mathison",  and "Turing". The letters and their positions in "Alan" are "[(A, 1), (l, 2), (a, 3), (n, 4)]". The letter at position 1 in this sequence is "A". The letters and their positions in "Mathison" are [(M, 1), (a, 2), (t, 3), (h, 4), (i, 5), (s, 6), (o, 7), (n, 8)]". The letter at position 1 in this sequence is "M". The letters and their positions in "Turing" are "[(T, 1), (u, 2), (r, 3), (i, 4), (n, 5), (g, 6)]". The letter at position 1 in this sequence is "T". Concatenating "A", "M", "T" using a space leads to "A M T". So, "Alan Mathison Turing" outputs "A M T".
+A: "A M T"
+QS: [EOQ]
+
+QC: Take the letters at position 4 of the words in "Herbert Alexander Simon" and concatenate them using a space.
+QS: The words in "Herbert Alexander Simon" are "Herbert", "Alexander", and "Simon". The letters and their positions in "Herbert" are "[(H, 1), (e, 2), (r, 3), (b, 4), (e, 5), (r, 6), (t, 7)]". The letter at position 4 in this sequence is "b". The letters and their positions in "Alexander" are "[(A, 1), (l, 2), (e, 3), (x, 4), (a, 5), (n, 6), (d, 7), (e, 8), (r, 9)]". The letter at position 4 in this sequence is "x". The letters and their positions in "Simon" are "[(S, 1), (i, 2), (m, 3), (o, 4), (n, 5)]". The letter at position 4 in this sequence is "o". Concatenating "b", "x", "o" using a space leads to "b x o". So, "Herbert Alexander Simon" outputs "b x o".
+A: "b x o"
+QS: [EOQ]

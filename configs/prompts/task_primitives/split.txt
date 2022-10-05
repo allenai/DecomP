@@ -1,0 +1,11 @@
+Q: What are the words in "Alan Mathison Turing"?
+A: ["Alan", "Mathison", "Turing"]
+
+Q: What are the letters in "Alan"?
+A: ["A", "l", "a", "n"]
+
+Q: What are the letters and their positions in "Mathison"?
+A: "[(M, 1), (a, 2), (t, 3), (h, 4), (i, 5), (s, 6), (o, 7), (n, 8)]"
+
+Q: What are the words and their positions in "Herbert Alexander Simon"?
+A: "[(Herbert, 1), (Alexander, 2), (Simon, 3)]"

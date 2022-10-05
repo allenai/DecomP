@@ -1,0 +1,14 @@
+QC: Take the last letters of the words in "Elon Musk Tesla" and concatenate them.
+QS: The last letter of "Elon" is "n". The last letter of "Musk" is "k". The last letter of "Tesla" is "a". Concatenating "n", "k", "a" leads to "n k a". So, "Elon Musk Tesla" outputs "n k a".
+A: "n k a"
+QS: [EOQ]
+
+QC: Take the letters at position 1 of the words in "Sundar Pichai Google" and concatenate them.
+QS: The letter at position 1 of "Sundar" is "S". The letter at position 1 of "Pichai" is "P". The letter at position 1 of "Google" is "G". Concatenating "S", "P", "G" leads to "S P G". So, "Sundar Pichai Google" outputs "S P G".
+A: "S P G"
+QS: [EOQ]
+
+QC: Take the letters at position 4 of the words in "Oren Etzioni AllenInstitute" and concatenate them.
+QS: The letter at position 4 of "Oren" is "n". The letter at position 4 of "Etzioni" is "i". The letter at position 4 of "AllenInstitute" is "e". Concatenating "n", "i", "e" leads to "n i e". So, "Oren Etzioni AllenInstitute" outputs "n i e".
+A: "n i e"
+QS: [EOQ]

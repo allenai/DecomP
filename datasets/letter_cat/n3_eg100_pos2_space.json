@@ -1,0 +1,2107 @@
+{
+  "1": {
+    "passage": "",
+    "qa_pairs": [
+      {
+        "question": "Take the letters at position 3 of the words in \"Donna Guan Nascimento\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "n a s"
+          ]
+        },
+        "query_id": "0",
+        "name": "Donna Guan Nascimento",
+        "words": [
+          "Donna",
+          "Guan",
+          "Nascimento"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Rahul Din Shimizu\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "h n i"
+          ]
+        },
+        "query_id": "1",
+        "name": "Rahul Din Shimizu",
+        "words": [
+          "Rahul",
+          "Din",
+          "Shimizu"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Nguyen Mahmood Jang\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "u h n"
+          ]
+        },
+        "query_id": "2",
+        "name": "Nguyen Mahmood Jang",
+        "words": [
+          "Nguyen",
+          "Mahmood",
+          "Jang"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Blanca Ibarra Soares\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "a a a"
+          ]
+        },
+        "query_id": "3",
+        "name": "Blanca Ibarra Soares",
+        "words": [
+          "Blanca",
+          "Ibarra",
+          "Soares"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Jianming Garcia Jing\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "a r n"
+          ]
+        },
+        "query_id": "4",
+        "name": "Jianming Garcia Jing",
+        "words": [
+          "Jianming",
+          "Garcia",
+          "Jing"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Yan Ortega Shankar\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "n t a"
+          ]
+        },
+        "query_id": "5",
+        "name": "Yan Ortega Shankar",
+        "words": [
+          "Yan",
+          "Ortega",
+          "Shankar"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Robert Gong Pawar\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "b n w"
+          ]
+        },
+        "query_id": "6",
+        "name": "Robert Gong Pawar",
+        "words": [
+          "Robert",
+          "Gong",
+          "Pawar"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Joel Girma Malik\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "e r l"
+          ]
+        },
+        "query_id": "7",
+        "name": "Joel Girma Malik",
+        "words": [
+          "Joel",
+          "Girma",
+          "Malik"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Laksmi Hossain Mustafa\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "k s s"
+          ]
+        },
+        "query_id": "8",
+        "name": "Laksmi Hossain Mustafa",
+        "words": [
+          "Laksmi",
+          "Hossain",
+          "Mustafa"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Parvati Morris Omer\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "r r e"
+          ]
+        },
+        "query_id": "9",
+        "name": "Parvati Morris Omer",
+        "words": [
+          "Parvati",
+          "Morris",
+          "Omer"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Sara Farooq Mallik\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "r r l"
+          ]
+        },
+        "query_id": "10",
+        "name": "Sara Farooq Mallik",
+        "words": [
+          "Sara",
+          "Farooq",
+          "Mallik"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Carlos Nascimento Abubakar\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "r s u"
+          ]
+        },
+        "query_id": "11",
+        "name": "Carlos Nascimento Abubakar",
+        "words": [
+          "Carlos",
+          "Nascimento",
+          "Abubakar"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Umar Latif Lopes\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "a t p"
+          ]
+        },
+        "query_id": "12",
+        "name": "Umar Latif Lopes",
+        "words": [
+          "Umar",
+          "Latif",
+          "Lopes"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Anthony Lopez Salisu\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "t p l"
+          ]
+        },
+        "query_id": "13",
+        "name": "Anthony Lopez Salisu",
+        "words": [
+          "Anthony",
+          "Lopez",
+          "Salisu"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Min Williams Velazquez\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "n l l"
+          ]
+        },
+        "query_id": "14",
+        "name": "Min Williams Velazquez",
+        "words": [
+          "Min",
+          "Williams",
+          "Velazquez"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Lingling Davis Kato\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "n v t"
+          ]
+        },
+        "query_id": "15",
+        "name": "Lingling Davis Kato",
+        "words": [
+          "Lingling",
+          "Davis",
+          "Kato"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Francis David Saad\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "a v a"
+          ]
+        },
+        "query_id": "16",
+        "name": "Francis David Saad",
+        "words": [
+          "Francis",
+          "David",
+          "Saad"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Cheng Santos Shi\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "e n i"
+          ]
+        },
+        "query_id": "17",
+        "name": "Cheng Santos Shi",
+        "words": [
+          "Cheng",
+          "Santos",
+          "Shi"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Lei Usman Osorio\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "i m o"
+          ]
+        },
+        "query_id": "18",
+        "name": "Lei Usman Osorio",
+        "words": [
+          "Lei",
+          "Usman",
+          "Osorio"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Steven Nabi Adamu\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "e b a"
+          ]
+        },
+        "query_id": "19",
+        "name": "Steven Nabi Adamu",
+        "words": [
+          "Steven",
+          "Nabi",
+          "Adamu"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Sayed Bailey Mane\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "y i n"
+          ]
+        },
+        "query_id": "20",
+        "name": "Sayed Bailey Mane",
+        "words": [
+          "Sayed",
+          "Bailey",
+          "Mane"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Darya Sarkar Marquez\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "r r r"
+          ]
+        },
+        "query_id": "21",
+        "name": "Darya Sarkar Marquez",
+        "words": [
+          "Darya",
+          "Sarkar",
+          "Marquez"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Elizabeth Xiong Roman\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "i o m"
+          ]
+        },
+        "query_id": "22",
+        "name": "Elizabeth Xiong Roman",
+        "words": [
+          "Elizabeth",
+          "Xiong",
+          "Roman"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Kathleen Xin Ding\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "t n n"
+          ]
+        },
+        "query_id": "23",
+        "name": "Kathleen Xin Ding",
+        "words": [
+          "Kathleen",
+          "Xin",
+          "Ding"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Alicia Adam Bhoi\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "i a o"
+          ]
+        },
+        "query_id": "24",
+        "name": "Alicia Adam Bhoi",
+        "words": [
+          "Alicia",
+          "Adam",
+          "Bhoi"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Ghulam Parveen Hassan\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "u r s"
+          ]
+        },
+        "query_id": "25",
+        "name": "Ghulam Parveen Hassan",
+        "words": [
+          "Ghulam",
+          "Parveen",
+          "Hassan"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Luiz Suzuki Figueroa\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "i z g"
+          ]
+        },
+        "query_id": "26",
+        "name": "Luiz Suzuki Figueroa",
+        "words": [
+          "Luiz",
+          "Suzuki",
+          "Figueroa"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Jeffrey Davis Rehman\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "f v h"
+          ]
+        },
+        "query_id": "27",
+        "name": "Jeffrey Davis Rehman",
+        "words": [
+          "Jeffrey",
+          "Davis",
+          "Rehman"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Michel Dong John\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "c n h"
+          ]
+        },
+        "query_id": "28",
+        "name": "Michel Dong John",
+        "words": [
+          "Michel",
+          "Dong",
+          "John"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Margaret Zhou Banza\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "r o n"
+          ]
+        },
+        "query_id": "29",
+        "name": "Margaret Zhou Banza",
+        "words": [
+          "Margaret",
+          "Zhou",
+          "Banza"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Ernest Musa Avila\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "n s i"
+          ]
+        },
+        "query_id": "30",
+        "name": "Ernest Musa Avila",
+        "words": [
+          "Ernest",
+          "Musa",
+          "Avila"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Min Jang Gan\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "n n n"
+          ]
+        },
+        "query_id": "31",
+        "name": "Min Jang Gan",
+        "words": [
+          "Min",
+          "Jang",
+          "Gan"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Ganesh Monteiro Cao\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "n n o"
+          ]
+        },
+        "query_id": "32",
+        "name": "Ganesh Monteiro Cao",
+        "words": [
+          "Ganesh",
+          "Monteiro",
+          "Cao"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Pushpa Andrade Bai\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "s d i"
+          ]
+        },
+        "query_id": "33",
+        "name": "Pushpa Andrade Bai",
+        "words": [
+          "Pushpa",
+          "Andrade",
+          "Bai"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Roy Torres Saidi\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "y r i"
+          ]
+        },
+        "query_id": "34",
+        "name": "Roy Torres Saidi",
+        "words": [
+          "Roy",
+          "Torres",
+          "Saidi"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Carmen Evans Ono\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "r a o"
+          ]
+        },
+        "query_id": "35",
+        "name": "Carmen Evans Ono",
+        "words": [
+          "Carmen",
+          "Evans",
+          "Ono"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Tina Mendez Xin\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "n n n"
+          ]
+        },
+        "query_id": "36",
+        "name": "Tina Mendez Xin",
+        "words": [
+          "Tina",
+          "Mendez",
+          "Xin"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Angelo Flores Kelly\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "g o l"
+          ]
+        },
+        "query_id": "37",
+        "name": "Angelo Flores Kelly",
+        "words": [
+          "Angelo",
+          "Flores",
+          "Kelly"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Alma Romero Mahmoud\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "m m h"
+          ]
+        },
+        "query_id": "38",
+        "name": "Alma Romero Mahmoud",
+        "words": [
+          "Alma",
+          "Romero",
+          "Mahmoud"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Trang Fan Sawadogo\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "a n w"
+          ]
+        },
+        "query_id": "39",
+        "name": "Trang Fan Sawadogo",
+        "words": [
+          "Trang",
+          "Fan",
+          "Sawadogo"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Tina Yang Kuang\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "n n a"
+          ]
+        },
+        "query_id": "40",
+        "name": "Tina Yang Kuang",
+        "words": [
+          "Tina",
+          "Yang",
+          "Kuang"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Kassa Qin Bautista\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "s n u"
+          ]
+        },
+        "query_id": "41",
+        "name": "Kassa Qin Bautista",
+        "words": [
+          "Kassa",
+          "Qin",
+          "Bautista"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Martine Davis Osman\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "r v m"
+          ]
+        },
+        "query_id": "42",
+        "name": "Martine Davis Osman",
+        "words": [
+          "Martine",
+          "Davis",
+          "Osman"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Jin Caballero Garcia\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "n b r"
+          ]
+        },
+        "query_id": "43",
+        "name": "Jin Caballero Garcia",
+        "words": [
+          "Jin",
+          "Caballero",
+          "Garcia"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Ahmad Moussa Devi\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "m u v"
+          ]
+        },
+        "query_id": "44",
+        "name": "Ahmad Moussa Devi",
+        "words": [
+          "Ahmad",
+          "Moussa",
+          "Devi"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Kiran Rashid Hadi\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "r s d"
+          ]
+        },
+        "query_id": "45",
+        "name": "Kiran Rashid Hadi",
+        "words": [
+          "Kiran",
+          "Rashid",
+          "Hadi"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Fatima Dlamini Phiri\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "t a i"
+          ]
+        },
+        "query_id": "46",
+        "name": "Fatima Dlamini Phiri",
+        "words": [
+          "Fatima",
+          "Dlamini",
+          "Phiri"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Charles Campbell Sosa\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "a m s"
+          ]
+        },
+        "query_id": "47",
+        "name": "Charles Campbell Sosa",
+        "words": [
+          "Charles",
+          "Campbell",
+          "Sosa"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Sharmin Shi Valencia\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "a i l"
+          ]
+        },
+        "query_id": "48",
+        "name": "Sharmin Shi Valencia",
+        "words": [
+          "Sharmin",
+          "Shi",
+          "Valencia"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Tatyana Babu Orozco\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "t b o"
+          ]
+        },
+        "query_id": "49",
+        "name": "Tatyana Babu Orozco",
+        "words": [
+          "Tatyana",
+          "Babu",
+          "Orozco"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Kalpana Bhoi Lozano\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "l o z"
+          ]
+        },
+        "query_id": "50",
+        "name": "Kalpana Bhoi Lozano",
+        "words": [
+          "Kalpana",
+          "Bhoi",
+          "Lozano"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Dennis Narayan Das\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "n r s"
+          ]
+        },
+        "query_id": "51",
+        "name": "Dennis Narayan Das",
+        "words": [
+          "Dennis",
+          "Narayan",
+          "Das"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Mario Chaudhary Vaghel\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "r a g"
+          ]
+        },
+        "query_id": "52",
+        "name": "Mario Chaudhary Vaghel",
+        "words": [
+          "Mario",
+          "Chaudhary",
+          "Vaghel"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Mohammed Saeed Mun\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "h e n"
+          ]
+        },
+        "query_id": "53",
+        "name": "Mohammed Saeed Mun",
+        "words": [
+          "Mohammed",
+          "Saeed",
+          "Mun"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Luz Ivanov Ruan\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "z a a"
+          ]
+        },
+        "query_id": "54",
+        "name": "Luz Ivanov Ruan",
+        "words": [
+          "Luz",
+          "Ivanov",
+          "Ruan"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Mohsen Rao Lopes\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "h o p"
+          ]
+        },
+        "query_id": "55",
+        "name": "Mohsen Rao Lopes",
+        "words": [
+          "Mohsen",
+          "Rao",
+          "Lopes"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Cheng Xavier Mostafa\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "e v s"
+          ]
+        },
+        "query_id": "56",
+        "name": "Cheng Xavier Mostafa",
+        "words": [
+          "Cheng",
+          "Xavier",
+          "Mostafa"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Pei You Gutierrez\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "i u t"
+          ]
+        },
+        "query_id": "57",
+        "name": "Pei You Gutierrez",
+        "words": [
+          "Pei",
+          "You",
+          "Gutierrez"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Jianfeng Cortes Fan\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "a r n"
+          ]
+        },
+        "query_id": "58",
+        "name": "Jianfeng Cortes Fan",
+        "words": [
+          "Jianfeng",
+          "Cortes",
+          "Fan"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Mahendra Sylla Sayed\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "h l y"
+          ]
+        },
+        "query_id": "59",
+        "name": "Mahendra Sylla Sayed",
+        "words": [
+          "Mahendra",
+          "Sylla",
+          "Sayed"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Jianping Luong Lima\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "a o m"
+          ]
+        },
+        "query_id": "60",
+        "name": "Jianping Luong Lima",
+        "words": [
+          "Jianping",
+          "Luong",
+          "Lima"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Philippe San Lan\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "i n n"
+          ]
+        },
+        "query_id": "61",
+        "name": "Philippe San Lan",
+        "words": [
+          "Philippe",
+          "San",
+          "Lan"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Claude Duong Raut\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "a o u"
+          ]
+        },
+        "query_id": "62",
+        "name": "Claude Duong Raut",
+        "words": [
+          "Claude",
+          "Duong",
+          "Raut"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Xiaoping Salazar Martinez\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "a l r"
+          ]
+        },
+        "query_id": "63",
+        "name": "Xiaoping Salazar Martinez",
+        "words": [
+          "Xiaoping",
+          "Salazar",
+          "Martinez"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Arun Figueroa Mei\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "u g i"
+          ]
+        },
+        "query_id": "64",
+        "name": "Arun Figueroa Mei",
+        "words": [
+          "Arun",
+          "Figueroa",
+          "Mei"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Haitao Jiao Hamed\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "i a m"
+          ]
+        },
+        "query_id": "65",
+        "name": "Haitao Jiao Hamed",
+        "words": [
+          "Haitao",
+          "Jiao",
+          "Hamed"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Benjamin Paramar Aung\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "n r n"
+          ]
+        },
+        "query_id": "66",
+        "name": "Benjamin Paramar Aung",
+        "words": [
+          "Benjamin",
+          "Paramar",
+          "Aung"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Lakshmi Ahamad Kaur\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "k a u"
+          ]
+        },
+        "query_id": "67",
+        "name": "Lakshmi Ahamad Kaur",
+        "words": [
+          "Lakshmi",
+          "Ahamad",
+          "Kaur"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Jianxin Edwards Jana\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "a w n"
+          ]
+        },
+        "query_id": "68",
+        "name": "Jianxin Edwards Jana",
+        "words": [
+          "Jianxin",
+          "Edwards",
+          "Jana"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Kathy Perera Omar\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "t r a"
+          ]
+        },
+        "query_id": "69",
+        "name": "Kathy Perera Omar",
+        "words": [
+          "Kathy",
+          "Perera",
+          "Omar"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Yumei Song Brown\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "m n o"
+          ]
+        },
+        "query_id": "70",
+        "name": "Yumei Song Brown",
+        "words": [
+          "Yumei",
+          "Song",
+          "Brown"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Leticia Bautista Mahmood\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "t u h"
+          ]
+        },
+        "query_id": "71",
+        "name": "Leticia Bautista Mahmood",
+        "words": [
+          "Leticia",
+          "Bautista",
+          "Mahmood"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Abdo Gul Marin\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "d l r"
+          ]
+        },
+        "query_id": "72",
+        "name": "Abdo Gul Marin",
+        "words": [
+          "Abdo",
+          "Gul",
+          "Marin"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Robert Adel Shankar\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "b e a"
+          ]
+        },
+        "query_id": "73",
+        "name": "Robert Adel Shankar",
+        "words": [
+          "Robert",
+          "Adel",
+          "Shankar"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Hawa Anwar Bao\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "w w o"
+          ]
+        },
+        "query_id": "74",
+        "name": "Hawa Anwar Bao",
+        "words": [
+          "Hawa",
+          "Anwar",
+          "Bao"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Julie Soares Gou\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "l a u"
+          ]
+        },
+        "query_id": "75",
+        "name": "Julie Soares Gou",
+        "words": [
+          "Julie",
+          "Soares",
+          "Gou"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Yolanda Bhagat Ling\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "l a n"
+          ]
+        },
+        "query_id": "76",
+        "name": "Yolanda Bhagat Ling",
+        "words": [
+          "Yolanda",
+          "Bhagat",
+          "Ling"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Arturo Gabriel You\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "t b u"
+          ]
+        },
+        "query_id": "77",
+        "name": "Arturo Gabriel You",
+        "words": [
+          "Arturo",
+          "Gabriel",
+          "You"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Xuemei Narayan Javed\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "e r v"
+          ]
+        },
+        "query_id": "78",
+        "name": "Xuemei Narayan Javed",
+        "words": [
+          "Xuemei",
+          "Narayan",
+          "Javed"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Kirill Diarra Asif\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "r a i"
+          ]
+        },
+        "query_id": "79",
+        "name": "Kirill Diarra Asif",
+        "words": [
+          "Kirill",
+          "Diarra",
+          "Asif"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Ravindra Sing Arias\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "v n i"
+          ]
+        },
+        "query_id": "80",
+        "name": "Ravindra Sing Arias",
+        "words": [
+          "Ravindra",
+          "Sing",
+          "Arias"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Pauline Ouedraogo Espinosa\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "u e p"
+          ]
+        },
+        "query_id": "81",
+        "name": "Pauline Ouedraogo Espinosa",
+        "words": [
+          "Pauline",
+          "Ouedraogo",
+          "Espinosa"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Ali Adams Fonseca\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "i a n"
+          ]
+        },
+        "query_id": "82",
+        "name": "Ali Adams Fonseca",
+        "words": [
+          "Ali",
+          "Adams",
+          "Fonseca"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Suresh Pires Delgado\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "r r l"
+          ]
+        },
+        "query_id": "83",
+        "name": "Suresh Pires Delgado",
+        "words": [
+          "Suresh",
+          "Pires",
+          "Delgado"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Hongwei Sahani Tang\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "n h n"
+          ]
+        },
+        "query_id": "84",
+        "name": "Hongwei Sahani Tang",
+        "words": [
+          "Hongwei",
+          "Sahani",
+          "Tang"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Clara Romero Vazquez\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "a m z"
+          ]
+        },
+        "query_id": "85",
+        "name": "Clara Romero Vazquez",
+        "words": [
+          "Clara",
+          "Romero",
+          "Vazquez"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Huimin Brito Begam\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "i i g"
+          ]
+        },
+        "query_id": "86",
+        "name": "Huimin Brito Begam",
+        "words": [
+          "Huimin",
+          "Brito",
+          "Begam"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Marina Mahdi Haque\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "r h q"
+          ]
+        },
+        "query_id": "87",
+        "name": "Marina Mahdi Haque",
+        "words": [
+          "Marina",
+          "Mahdi",
+          "Haque"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Joseph Mahmood Niu\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "s h u"
+          ]
+        },
+        "query_id": "88",
+        "name": "Joseph Mahmood Niu",
+        "words": [
+          "Joseph",
+          "Mahmood",
+          "Niu"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Hung Benitez Fernandez\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "n n r"
+          ]
+        },
+        "query_id": "89",
+        "name": "Hung Benitez Fernandez",
+        "words": [
+          "Hung",
+          "Benitez",
+          "Fernandez"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Mina Otieno Jadhav\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "n i d"
+          ]
+        },
+        "query_id": "90",
+        "name": "Mina Otieno Jadhav",
+        "words": [
+          "Mina",
+          "Otieno",
+          "Jadhav"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Oscar Valdez Toure\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "c l u"
+          ]
+        },
+        "query_id": "91",
+        "name": "Oscar Valdez Toure",
+        "words": [
+          "Oscar",
+          "Valdez",
+          "Toure"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Yuriy Davis Carvalho\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "r v r"
+          ]
+        },
+        "query_id": "92",
+        "name": "Yuriy Davis Carvalho",
+        "words": [
+          "Yuriy",
+          "Davis",
+          "Carvalho"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Virginia Nie Martins\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "r e r"
+          ]
+        },
+        "query_id": "93",
+        "name": "Virginia Nie Martins",
+        "words": [
+          "Virginia",
+          "Nie",
+          "Martins"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Kelly Feng Yamada\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "l n m"
+          ]
+        },
+        "query_id": "94",
+        "name": "Kelly Feng Yamada",
+        "words": [
+          "Kelly",
+          "Feng",
+          "Yamada"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Madina Hassan Akhtar\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "d s h"
+          ]
+        },
+        "query_id": "95",
+        "name": "Madina Hassan Akhtar",
+        "words": [
+          "Madina",
+          "Hassan",
+          "Akhtar"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Gary Ivanova Duarte\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "r a a"
+          ]
+        },
+        "query_id": "96",
+        "name": "Gary Ivanova Duarte",
+        "words": [
+          "Gary",
+          "Ivanova",
+          "Duarte"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Zhiwei Ding Wang\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "i n n"
+          ]
+        },
+        "query_id": "97",
+        "name": "Zhiwei Ding Wang",
+        "words": [
+          "Zhiwei",
+          "Ding",
+          "Wang"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Antonia Morris Yang\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "t r n"
+          ]
+        },
+        "query_id": "98",
+        "name": "Antonia Morris Yang",
+        "words": [
+          "Antonia",
+          "Morris",
+          "Yang"
+        ]
+      },
+      {
+        "question": "Take the letters at position 3 of the words in \"Hoang Salah Ito\" and concatenate them using a space.",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "a l o"
+          ]
+        },
+        "query_id": "99",
+        "name": "Hoang Salah Ito",
+        "words": [
+          "Hoang",
+          "Salah",
+          "Ito"
+        ]
+      }
+    ]
+  }
+}

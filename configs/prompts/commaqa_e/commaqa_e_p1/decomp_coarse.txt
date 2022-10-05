@@ -1,0 +1,49 @@
+What awards have movies produced by people born in 1910 won?
+QS: (select) [qa] Who were born in the year 1910?
+A: ["Teeplemole", "Muntaril"]
+QS: (project_values_flat_unique) [qa] For which movies was #1 the producer?
+A: ["Featsaw", "Zalate", "Premercy"]
+QS: (project_values_flat_unique) [qa] Which awards were given to #2?
+A: ["Zorgion", "Chowwurst", "Hallowcock"]
+QS: [EOQ]
+
+QC: What movies have people from the country Stridery acted in?
+QS: (select) [qa] Who is from the country Stridery?
+A: ["Gastrat"]
+QS: (project_values_flat_unique) [qa] Which movies has #1 been an actor in?
+A: ["Partnershipmaker", "Nilitude", "Warpstone"]
+QS: [EOQ]
+
+QC: What awards have the actors of the Erowid winning movies received?
+QS: (select) [qa] Which movies were given the Erowid award?
+A: ["Dewbar", "Caudacite"]
+QS: (project_values_flat_unique) [qa] Who are the actors in the movie #1?
+A: ["Wetherality", "Lougerière", "Gigabut"]
+QS: (project_values_flat_unique) [qa] Which awards were given to #2?
+A: ["Aniconder", "Trifogation"]
+QS: [EOQ]
+
+QC: What awards did the movies directed by the Modiparity winners receive?
+QS: (select) [qa] Who has been awarded the Modiparity award?
+A: ["Bioperatology"]
+QS: (project_values_flat_unique) [qa] Which movies has #1 directed?
+A: ["Pestok", "Vitrilateral"]
+QS: (project_values_flat_unique) [qa] Which awards were given to #2?
+A: ["Gutney", "Antipositive"]
+QS: [EOQ]
+
+QC: What awards have movies written by people born in 1935 won?
+QS: (select) [qa] Who were born in the year 1935?
+A: ["Sclerocybin", "Zayage"]
+QS: (project_values_flat_unique) [qa] What movies has #1 written?
+A: ["Noenometer", "Tayenne", "Pneumodendron"]
+QS: (project_values_flat_unique) [qa] Which awards were given to #2?
+A: ["Brownbeard", "Goosehead", "Handt"]
+QS: [EOQ]
+
+QC: What movies have the directors from Legault directed?
+QS: (select) [qa] Who is from the country Legault?
+A: ["Metatoun", "Sapien"]
+QS: (project_values_flat_unique) [qa] What movies has #1 been the director of?
+A: ["Coacheship", "Misapportionment"]
+QS: [EOQ]

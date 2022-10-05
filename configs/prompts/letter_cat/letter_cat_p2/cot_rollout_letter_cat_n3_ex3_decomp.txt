@@ -1,0 +1,14 @@
+QC: Take the last letters of the words in "Elon Musk Tesla" and concatenate them.
+QS: The words in "Elon Musk Tesla" are "Elon", "Musk" and "Tesla". The letters and their positions in "Elon" are [(E, 1), (l, 2), (o, 3), (n, 4)]. The last letter in this sequence is "n". The letters and their positions in "Musk" are [(M, 1), (u, 2), (s, 3), (k, 4)]. The last letter in this sequence is "k". The letters and their positions in "Tesla" are [(T, 1), (e, 2), (s, 3), (l, 4), (a, 5)]. The last letter in this sequence is "a". Concatenating "n", "k", "a" leads to "n k a". So, "Elon Musk Tesla" outputs "n k a".
+A: "n k a"
+QS: [EOQ]
+
+QC: Take the letters at position 1 of the words in "Sundar Pichai Google" and concatenate them.
+QS: The words in "Sundar Pichai Google" are "Sundar", "Pichai" and "Google". The letters and their positions in "Sundar" are [(S, 1), (u, 2), (n, 3), (d, 4), (a, 5), (r, 6)]. The letter at position 1 in this sequence is "S". The letters and their positions in "Pichai" are [(P, 1), (i, 2), (c, 3), (h, 4), (a, 5), (i, 6)]. The letter in position 1 in this sequence is "P". The letters and their positions in "Google" are [(G, 1), (o, 2), (o, 3), (g, 4), (l, 5), (e, 6)]. The letter in position 1 in this sequence is "G". Concatenating "S", "P", "G" leads to "S P G". So, "Sundar Pichai Google" outputs "S P G".
+A: "S P G"
+QS: [EOQ]
+
+QC: Take the letters at position 4 of the words in "Oren Etzioni AllenInstitute" and concatenate them.
+QS: The words in "Oren Etzioni AllenInstitute" are "Oren", "Etzioni" and "AllenInstitute". The letters and their positions in "Oren" are [(O, 1), (r, 2), (e, 3), (n, 4)]. The letter at position 4 in this sequence is "n". The letters and their positions in "Etzioni" are [(E, 1), (t, 2), (z, 3), (i, 4), (o, 5), (n, 6), (i, 7)]. The letter at position 4 in this sequence is "i". The letters and their positions in "AllenInstitute" are [(A, 1), (l, 2), (l, 3), (e, 4), (n, 5), (I, 6), (n, 7), (s, 8), (t, 9), (i, 10), (t, 11), (u, 12), (t, 13), (e, 14)]. The letter at position 4 in this sequence is "e". Concatenating "n", "i", "e" leads to "n i e". So, "Oren Etzioni AllenInstitute" outputs "n i e".
+A: "n i e"
+QS: [EOQ]

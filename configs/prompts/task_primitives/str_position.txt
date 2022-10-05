@@ -1,0 +1,20 @@
+QC: What is the letter at position 1 of the word "Augusta"?
+QS: (select) [split] What are the letters and their positions in "Augusta"?
+A: "[(A, 1), (u, 2), (g, 3), (u, 4), (s, 5), (t, 6), (a, 7)]"
+QS: (select) [arr_position] What is at position 1 in #1?
+A: "A"
+QS: [EOQ]
+
+QC: What is the last letter of the word "Mathison"?
+QS: (select) [split] What are the letters and their positions in "Mathison"?
+A: "[(M, 1), (a, 2), (t, 3), (h, 4), (i, 5), (s, 6), (o, 7), (n, 8)]"
+QS: (select) [arr_position] What is the last letter in #1?
+A: "n"
+QS: [EOQ]
+
+QC: What is the word at the position 4 in "Colorless green ideas sleep furiously"?
+QS: (select) [split] What are the words and their positions in "Colorless green ideas sleep furiously"?
+A: "[(Colorless, 1), (green, 2), (ideas, 3), (sleep, 4), (furiously, 5)]"
+QS: (select) [arr_position] What is at the position 4 in #1?
+A: "sleep"
+QS: [EOQ]
