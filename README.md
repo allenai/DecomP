@@ -34,6 +34,31 @@ Change promptid to p2 or p3 to try other prompts. Change config to cot_letter_ca
 evaluate the CoT baseline and cot_rollout_letter_cat_greedy_search to evaluate the CoT w/ rollout
 baseline.
 
+## List Reversal
+Run the list reversal experiments on sequences of length `LEN` 
+using prompting strategy `STRAT` (`STRAT` should be one of `decomp`, `cot`, `unrolled`).
+```shell
+# Generate the data
+mkdir -p datasets/reverse
+LEN=10
+STRAT=decomp
+python src/decomp/datasets_utils/build_reverse_dataset.py \
+  --listop=reversed \
+  --elts=words \
+  --out_dir=datasets/reverse
+  --length=$LEN \
+  --num_examples=1000
+
+python -m decomp.inference.configurable_inference \
+  --input datasets/reverse/test_${LEN}_normal_words.json \
+  --config configs/inference/reverse/${STRAT}.jsonnet \
+  --output output/predictions/reverse_${LEN}_${STRAT}_predictions.json
+  
+python -m decomp.datasets_utils.drop_eval \
+  --gold_path datasets/reverse/test_${LEN}_normal_words.json \
+  --prediction_path output/predictions/reverse_${LEN}_${STRAT}_predictions.json 
+```
+
 ## CommAQA
 Run the CommAQA experiments with one of the prompts
 ```shell

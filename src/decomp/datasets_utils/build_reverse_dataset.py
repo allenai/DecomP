@@ -31,7 +31,7 @@ def main():
     parser.add_argument("--num_examples", type=int, default=100)
     parser.add_argument("--train_size", type=int, default=10)
     parser.add_argument("--out_dir", default=".")
-    parser.add_argument("--word_list", default="configs/reverse_datasets/wordlist.txt")
+    parser.add_argument("--word_list", default="configs/data/wordlist.txt")
     parser.add_argument("--hard", action="store_true")
     parser.add_argument("--length", default=[4], nargs="+", type=int)
     parser.add_argument("--cot", action="store_true")
