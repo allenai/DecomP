@@ -1,0 +1,40 @@
+QC: Reverse the sequence "driving license, button, packet, identity card, shoe".
+QS: [extract] The sequence is "1. driving license, 2. button, 3. packet, 4. identity card, 5. shoe". The sequence is 5 items long, which is more than the minimum length of 4, so we split it. Half of 5 is 5 / 2 = 2.5. Dropping the decimal, we get that the first half will be 2 items long, ending in "2. button". The first half (2 items) is "1. driving license, 2. button".
+A: "1. driving license, 2. button"
+QS: [extract] The first half of the sequence ends with "2. button", so the second half starts after "2. button" with "3. packet". The full sequence is 5 items long, and the first half is 2 items long, so the second half will be 5 - 2 = 3 items long. The second half of the sequence (3 items) is "3. packet, 4. identity card, 5. shoe".
+A: "3. packet, 4. identity card, 5. shoe"
+QS: [remove_numbers] Remove the numbers from #1.
+A: "driving license, button"
+QS: [remove_numbers] Remove the numbers from #2.
+A: "packet, identity card, shoe"
+QS: [reverse] Reverse the sequence #3. 
+A: "button, driving license"
+QS: [reverse] Reverse the sequence #4.
+A: "shoe, identity card, packet"
+QS: [join] #6 #5
+A: "shoe, identity card, packet, button, driving license"
+QS: [EOQ]
+
+QC: Reverse the sequence "laptop, photo, clip".
+QS: [extract] The sequence is "1. laptop, 2. photo, 3. clip". The sequence is 3 items long, which is less than the minimum length of 4, so we don't need to split it. All we need to do is reverse "laptop, photo, clip".
+A: "laptop, photo, clip"
+QS: [cot] Reverse the sequence #1.
+A: "clip, photo, laptop"
+QS: [EOQ]
+
+QC: Reverse the sequence "newspaper, glasses, laptop, bottle".
+QS: [extract] The sequence is "1. newspaper, 2. glasses, 3. laptop, 4. bottle". The sequence is 4 items long, which is equal to the minimum length of 4, so we split it. Half of 4 is 4 / 2 = 2.0. Dropping the decimal, we get that the first half will be 2 items long. The first half (2 items) of the sequence is "1. newspaper, 2. glasses".
+A: "1. newspaper, 2. glasses"
+QS: [extract] The first half of the sequence ends with "2. glasses", so the second half starts after "2. glasses" with "3. laptop". The full sequence is 4 items long and the first half is 2 items long, so the second half will be 4 - 2 = 2 items long, ending in "2. glasses". The second half of the sequence (2 items) is "3. laptop, 4. bottle".
+A: "3. laptop, 4. bottle"
+QS: [remove_numbers] Remove the numbers from #1.
+A: "newspaper, glasses"
+QS: [remove_numbers] Remove the numbers from #2.
+A: "laptop, bottle"
+QS: [reverse] Reverse the sequence #3. 
+A: "glasses, newspaper"
+QS: [reverse] Reverse the sequence #4.
+A: "bottle, laptop"
+QS: [join] #6 #5
+A: "bottle, laptop, glasses, newspaper"
+QS: [EOQ]

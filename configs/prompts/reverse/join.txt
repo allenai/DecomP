@@ -1,0 +1,14 @@
+Q: "bottle, laptop" "glasses, newspaper".
+A: "bottle, laptop, glasses, newspaper"
+
+Q: "identity card, packet, button" "magazine, notebook, glasses".
+A: "identity card, packet, button, magazine, notebook, glasses"
+
+Q: "passport, umbrella, radio, mobile phone, photo" "player".
+A:  "passport, umbrella, radio, mobile phone, photo, player"
+
+Q: "mirror, case" "toothbrush, alarm clock".
+A: "mirror, case, toothbrush, alarm clock"
+
+Q: "light bulb, clip, umbrella" "driving licence, watch".
+A: "light bulb, clip, umbrella, driving licence, watch"

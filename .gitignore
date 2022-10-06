@@ -8,3 +8,6 @@
 # Output dumps
 output/
 `
+
+# Tag files
+tags

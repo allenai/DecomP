@@ -1,0 +1,11 @@
+QC: Reverse the sequence "newspaper, glasses, laptop, bottle".
+QS: First is newspaper. Second is glasses. Third is laptop. Fourth is bottle. Now to reverse, change the order to: Fourth is bottle. Third is laptop. Second is glasses. First is newspaper. So the answer is "bottle, laptop, glasses, newspaper".
+A: "bottle, laptop, glasses, newspaper"
+
+QC: Reverse the sequence "laptop, photo, clip".
+QS: First is laptop. Second is photo. Third is clip. Now to reverse, change the order to: Third is clip. Second is photo. First is laptop. So the answer is "clip, photo, laptop".
+A: "clip, photo, laptop"
+
+QC: Reverse the sequence "driving license, button, packet, identity card, pineapple".
+QS: First is driving license. Second is button. Third is packet. Fourth is identity card. Fifth is pineapple. Now to reverse, change the order to: Fifth is pineapple. Fourth is identity card. Third is packet. Second is button. First is driving license. So the answer is "pineapple, identity card, packet, button, driving license".
+A: "pineapple, identity card, packet, button, driving license"

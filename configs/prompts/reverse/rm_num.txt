@@ -1,0 +1,8 @@
+Q: Remove the numbers from "4. bottle, 3. laptop, 2. glasses, 1. newspaper".
+A: "bottle, laptop, glasses, newspaper"
+
+Q: Remove the numbers from "1. identity card, 2. packet, 3. button".
+A: "identity card, packet, button"
+
+Q: Remove the numbers from "1. player, 2. passport, 3. umbrella, 4. radio".
+A:  "player, passport, umbrella, radio"
