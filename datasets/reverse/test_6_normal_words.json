@@ -1,0 +1,1447 @@
+{
+  "alg_qa": {
+    "passage": "",
+    "qa_pairs": [
+      {
+        "question": "Reverse the sequence \"water, camera, file, cigarette, clip, tissue\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "tissue, clip, cigarette, file, camera, water"
+          ]
+        },
+        "query_id": "35",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"notebook, driving licence, alarm clock, button, rubbish, banknote\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "banknote, rubbish, button, alarm clock, driving licence, notebook"
+          ]
+        },
+        "query_id": "17",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"sweet, pen, driving licence, laptop, coin, watch\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "watch, coin, laptop, driving licence, pen, sweet"
+          ]
+        },
+        "query_id": "30",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"laptop, case, rubbish, tissue, headphone, umbrella\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "umbrella, headphone, tissue, rubbish, case, laptop"
+          ]
+        },
+        "query_id": "61",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"headphone, alarm clock, passport, water, file, photo\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "photo, file, water, passport, alarm clock, headphone"
+          ]
+        },
+        "query_id": "45",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"mobile phone, key, diary, stamp, case, light bulb\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "light bulb, case, stamp, diary, key, mobile phone"
+          ]
+        },
+        "query_id": "78",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"wallet, bin, purse, phone card, lipstick, lighter\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "lighter, lipstick, phone card, purse, bin, wallet"
+          ]
+        },
+        "query_id": "36",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"laptop, phone card, battery, banknote, bottle, sunscreen\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "sunscreen, bottle, banknote, battery, phone card, laptop"
+          ]
+        },
+        "query_id": "86",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"lipstick, battery, rubber, match, cigarette, driving licence\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "driving licence, cigarette, match, rubber, battery, lipstick"
+          ]
+        },
+        "query_id": "95",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"magazine, passport, photo, sweet, watch, file\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "file, watch, sweet, photo, passport, magazine"
+          ]
+        },
+        "query_id": "75",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"glasses, watch, magazine, headphone, dictionary, purse\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "purse, dictionary, headphone, magazine, watch, glasses"
+          ]
+        },
+        "query_id": "81",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"bin, lipstick, magazine, mobile phone, banknote, water\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "water, banknote, mobile phone, magazine, lipstick, bin"
+          ]
+        },
+        "query_id": "79",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"watch, driving licence, bin, rubbish, file, phone card\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "phone card, file, rubbish, bin, driving licence, watch"
+          ]
+        },
+        "query_id": "16",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"newspaper, comb, bin, magazine, headphone, bottle\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "bottle, headphone, magazine, bin, comb, newspaper"
+          ]
+        },
+        "query_id": "39",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"headphone, magazine, scissors, umbrella, bottle, phone card\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "phone card, bottle, umbrella, scissors, magazine, headphone"
+          ]
+        },
+        "query_id": "49",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"match, comb, lighter, driving licence, laptop, purse\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "purse, laptop, driving licence, lighter, comb, match"
+          ]
+        },
+        "query_id": "53",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"driving licence, rubbish, diary, scissors, headphone, water\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "water, headphone, scissors, diary, rubbish, driving licence"
+          ]
+        },
+        "query_id": "83",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"rubber, banknote, umbrella, laptop, photo, packet\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "packet, photo, laptop, umbrella, banknote, rubber"
+          ]
+        },
+        "query_id": "10",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"phone card, purse, light bulb, stamp, case, mirror\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "mirror, case, stamp, light bulb, purse, phone card"
+          ]
+        },
+        "query_id": "0",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"match, stamp, case, sweet, coin, photo\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "photo, coin, sweet, case, stamp, match"
+          ]
+        },
+        "query_id": "76",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"watch, credit card, mirror, button, dictionary, pen\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "pen, dictionary, button, mirror, credit card, watch"
+          ]
+        },
+        "query_id": "24",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"mobile phone, painkiller, scissors, postcard, chewing gum, wallet\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "wallet, chewing gum, postcard, scissors, painkiller, mobile phone"
+          ]
+        },
+        "query_id": "42",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"laptop, phone card, chewing gum, lighter, photo, toothbrush\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "toothbrush, photo, lighter, chewing gum, phone card, laptop"
+          ]
+        },
+        "query_id": "20",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"wallet, photo, diary, driving licence, alarm clock, scissors\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "scissors, alarm clock, driving licence, diary, photo, wallet"
+          ]
+        },
+        "query_id": "97",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"case, coin, glasses, passport, comb, umbrella\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "umbrella, comb, passport, glasses, coin, case"
+          ]
+        },
+        "query_id": "28",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"headphone, clip, sweet, chewing gum, packet, purse\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "purse, packet, chewing gum, sweet, clip, headphone"
+          ]
+        },
+        "query_id": "57",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"match, newspaper, passport, case, rubber, key\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "key, rubber, case, passport, newspaper, match"
+          ]
+        },
+        "query_id": "48",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"purse, notebook, scissors, pencil, chewing gum, stamp\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "stamp, chewing gum, pencil, scissors, notebook, purse"
+          ]
+        },
+        "query_id": "72",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"lighter, chewing gum, lipstick, button, water, laptop\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "laptop, water, button, lipstick, chewing gum, lighter"
+          ]
+        },
+        "query_id": "84",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"lighter, mobile phone, brush, stamp, banknote, button\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "button, banknote, stamp, brush, mobile phone, lighter"
+          ]
+        },
+        "query_id": "4",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"painkiller, rubber, lipstick, clip, cigarette, lighter\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "lighter, cigarette, clip, lipstick, rubber, painkiller"
+          ]
+        },
+        "query_id": "51",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"watch, case, dictionary, credit card, bottle, tissue\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "tissue, bottle, credit card, dictionary, case, watch"
+          ]
+        },
+        "query_id": "71",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"chewing gum, photo, notebook, lipstick, lighter, identity card\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "identity card, lighter, lipstick, notebook, photo, chewing gum"
+          ]
+        },
+        "query_id": "5",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"match, bin, photo, passport, lighter, clip\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "clip, lighter, passport, photo, bin, match"
+          ]
+        },
+        "query_id": "21",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"file, headphone, purse, packet, cigarette, stamp\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "stamp, cigarette, packet, purse, headphone, file"
+          ]
+        },
+        "query_id": "74",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"toothbrush, clip, headphone, alarm clock, pen, magazine\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "magazine, pen, alarm clock, headphone, clip, toothbrush"
+          ]
+        },
+        "query_id": "8",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"brush, driving licence, newspaper, mobile phone, phone card, bin\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "bin, phone card, mobile phone, newspaper, driving licence, brush"
+          ]
+        },
+        "query_id": "33",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"water, bin, file, cigarette, lighter, camera\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "camera, lighter, cigarette, file, bin, water"
+          ]
+        },
+        "query_id": "44",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"passport, toothbrush, cigarette, newspaper, umbrella, banknote\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "banknote, umbrella, newspaper, cigarette, toothbrush, passport"
+          ]
+        },
+        "query_id": "82",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"phone card, mirror, lipstick, match, postcard, key\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "key, postcard, match, lipstick, mirror, phone card"
+          ]
+        },
+        "query_id": "90",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"photo, magazine, alarm clock, scissors, brush, passport\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "passport, brush, scissors, alarm clock, magazine, photo"
+          ]
+        },
+        "query_id": "63",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"rubber, bin, scissors, tissue, photo, light bulb\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "light bulb, photo, tissue, scissors, bin, rubber"
+          ]
+        },
+        "query_id": "56",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"headphone, umbrella, cigarette, passport, camera, lipstick\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "lipstick, camera, passport, cigarette, umbrella, headphone"
+          ]
+        },
+        "query_id": "31",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"umbrella, stamp, laptop, toothbrush, scissors, sunscreen\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "sunscreen, scissors, toothbrush, laptop, stamp, umbrella"
+          ]
+        },
+        "query_id": "99",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"notebook, key, bin, water, brush, coin\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "coin, brush, water, bin, key, notebook"
+          ]
+        },
+        "query_id": "38",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"purse, player, toothbrush, newspaper, lighter, mirror\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "mirror, lighter, newspaper, toothbrush, player, purse"
+          ]
+        },
+        "query_id": "73",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"sunscreen, toothbrush, mobile phone, file, camera, key\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "key, camera, file, mobile phone, toothbrush, sunscreen"
+          ]
+        },
+        "query_id": "89",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"newspaper, painkiller, battery, wallet, glasses, driving licence\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "driving licence, glasses, wallet, battery, painkiller, newspaper"
+          ]
+        },
+        "query_id": "2",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"sweet, brush, mobile phone, painkiller, lighter, phone card\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "phone card, lighter, painkiller, mobile phone, brush, sweet"
+          ]
+        },
+        "query_id": "65",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"umbrella, diary, purse, sunscreen, phone card, toothbrush\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "toothbrush, phone card, sunscreen, purse, diary, umbrella"
+          ]
+        },
+        "query_id": "77",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"player, bin, glasses, phone card, sweet, diary\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "diary, sweet, phone card, glasses, bin, player"
+          ]
+        },
+        "query_id": "19",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"painkiller, laptop, battery, file, postcard, cigarette\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "cigarette, postcard, file, battery, laptop, painkiller"
+          ]
+        },
+        "query_id": "29",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"toothbrush, rubbish, lighter, cigarette, pen, match\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "match, pen, cigarette, lighter, rubbish, toothbrush"
+          ]
+        },
+        "query_id": "3",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"notebook, phone card, newspaper, water, scissors, tissue\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "tissue, scissors, water, newspaper, phone card, notebook"
+          ]
+        },
+        "query_id": "26",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"brush, rubber, tissue, mobile phone, file, purse\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "purse, file, mobile phone, tissue, rubber, brush"
+          ]
+        },
+        "query_id": "12",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"water, bin, mobile phone, sweet, alarm clock, wallet\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "wallet, alarm clock, sweet, mobile phone, bin, water"
+          ]
+        },
+        "query_id": "58",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"button, watch, case, alarm clock, identity card, purse\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "purse, identity card, alarm clock, case, watch, button"
+          ]
+        },
+        "query_id": "40",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"case, pencil, bottle, watch, diary, camera\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "camera, diary, watch, bottle, pencil, case"
+          ]
+        },
+        "query_id": "67",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"identity card, laptop, phone card, glasses, umbrella, photo\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "photo, umbrella, glasses, phone card, laptop, identity card"
+          ]
+        },
+        "query_id": "64",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"photo, driving licence, umbrella, diary, credit card, bottle\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "bottle, credit card, diary, umbrella, driving licence, photo"
+          ]
+        },
+        "query_id": "68",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"pen, photo, toothbrush, credit card, umbrella, alarm clock\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "alarm clock, umbrella, credit card, toothbrush, photo, pen"
+          ]
+        },
+        "query_id": "25",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"wallet, diary, notebook, bin, button, magazine\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "magazine, button, bin, notebook, diary, wallet"
+          ]
+        },
+        "query_id": "46",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"photo, player, postcard, match, file, painkiller\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "painkiller, file, match, postcard, player, photo"
+          ]
+        },
+        "query_id": "50",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"case, button, tissue, mirror, credit card, wallet\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "wallet, credit card, mirror, tissue, button, case"
+          ]
+        },
+        "query_id": "43",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"glasses, key, pen, rubber, diary, bin\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "bin, diary, rubber, pen, key, glasses"
+          ]
+        },
+        "query_id": "13",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"phone card, stamp, packet, case, scissors, water\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "water, scissors, case, packet, stamp, phone card"
+          ]
+        },
+        "query_id": "93",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"lipstick, headphone, driving licence, laptop, clip, lighter\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "lighter, clip, laptop, driving licence, headphone, lipstick"
+          ]
+        },
+        "query_id": "34",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"file, button, postcard, scissors, photo, brush\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "brush, photo, scissors, postcard, button, file"
+          ]
+        },
+        "query_id": "6",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"chewing gum, rubbish, sunscreen, identity card, alarm clock, phone card\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "phone card, alarm clock, identity card, sunscreen, rubbish, chewing gum"
+          ]
+        },
+        "query_id": "91",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"key, light bulb, rubber, lighter, alarm clock, toothbrush\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "toothbrush, alarm clock, lighter, rubber, light bulb, key"
+          ]
+        },
+        "query_id": "47",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"mobile phone, newspaper, key, lipstick, case, sunscreen\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "sunscreen, case, lipstick, key, newspaper, mobile phone"
+          ]
+        },
+        "query_id": "85",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"wallet, rubber, alarm clock, laptop, camera, identity card\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "identity card, camera, laptop, alarm clock, rubber, wallet"
+          ]
+        },
+        "query_id": "37",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"sweet, postcard, alarm clock, stamp, toothbrush, key\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "key, toothbrush, stamp, alarm clock, postcard, sweet"
+          ]
+        },
+        "query_id": "32",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"phone card, button, bottle, glasses, scissors, umbrella\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "umbrella, scissors, glasses, bottle, button, phone card"
+          ]
+        },
+        "query_id": "9",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"cigarette, purse, dictionary, water, light bulb, tissue\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "tissue, light bulb, water, dictionary, purse, cigarette"
+          ]
+        },
+        "query_id": "41",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"phone card, camera, diary, rubbish, newspaper, photo\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "photo, newspaper, rubbish, diary, camera, phone card"
+          ]
+        },
+        "query_id": "22",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"magazine, button, alarm clock, driving licence, rubbish, bottle\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "bottle, rubbish, driving licence, alarm clock, button, magazine"
+          ]
+        },
+        "query_id": "94",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"banknote, newspaper, mobile phone, headphone, dictionary, water\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "water, dictionary, headphone, mobile phone, newspaper, banknote"
+          ]
+        },
+        "query_id": "80",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"magazine, tissue, light bulb, dictionary, water, match\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "match, water, dictionary, light bulb, tissue, magazine"
+          ]
+        },
+        "query_id": "15",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"identity card, packet, phone card, light bulb, painkiller, key\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "key, painkiller, light bulb, phone card, packet, identity card"
+          ]
+        },
+        "query_id": "69",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"toothbrush, comb, phone card, purse, lighter, driving licence\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "driving licence, lighter, purse, phone card, comb, toothbrush"
+          ]
+        },
+        "query_id": "52",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"wallet, bin, coin, lipstick, cigarette, water\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "water, cigarette, lipstick, coin, bin, wallet"
+          ]
+        },
+        "query_id": "59",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"player, passport, magazine, pen, file, headphone\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "headphone, file, pen, magazine, passport, player"
+          ]
+        },
+        "query_id": "92",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"glasses, scissors, tissue, credit card, file, pen\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "pen, file, credit card, tissue, scissors, glasses"
+          ]
+        },
+        "query_id": "14",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"sweet, match, cigarette, bottle, button, mirror\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "mirror, button, bottle, cigarette, match, sweet"
+          ]
+        },
+        "query_id": "88",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"newspaper, painkiller, case, rubber, umbrella, key\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "key, umbrella, rubber, case, painkiller, newspaper"
+          ]
+        },
+        "query_id": "62",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"key, identity card, diary, postcard, bin, glasses\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "glasses, bin, postcard, diary, identity card, key"
+          ]
+        },
+        "query_id": "70",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"scissors, toothbrush, diary, banknote, button, umbrella\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "umbrella, button, banknote, diary, toothbrush, scissors"
+          ]
+        },
+        "query_id": "54",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"sweet, light bulb, magazine, phone card, toothbrush, dictionary\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "dictionary, toothbrush, phone card, magazine, light bulb, sweet"
+          ]
+        },
+        "query_id": "96",
+        "validated_answers": []
+      },
+      {
+        "question": "Reverse the sequence \"mirror, coin, bottle, watch, file, photo\".",
+        "answer": {
+          "number": "",
+          "date": {
+            "day": "",
+            "month": "",
+            "year": ""
+          },
+          "spans": [
+            "photo, file, watch, bottle, coin, mirror"
+          ]
+        },
+        "query_id": "98",
+        "validated_answers": []
+      }
+    ]
+  }
+}
