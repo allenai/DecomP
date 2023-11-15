@@ -77,7 +77,6 @@ evaluate the CoT baseline and commaqae_coarse_greedy_search to evaluate the coar
 Change the test file to datasets/commaqa_e/compgen_test_eg300.json to evaluate the compositional
 generalization split. 
 
-## Multi-hop Open Domain QA **NEW**
+## Multi-hop Open Domain QA
 All the code and experiments for multi-hop open-domain QA can be found in Harsh's Decomp-ODQA repo here:
-
-[https://github.com/HarshTrivedi/DecomP-ODQA] (https://github.com/HarshTrivedi/DecomP-ODQA)
+https://github.com/HarshTrivedi/DecomP-ODQA
