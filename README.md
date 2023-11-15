@@ -76,3 +76,8 @@ Change promptid to p2 or p3 to try other prompts. Change config to cot_commaqae_
 evaluate the CoT baseline and commaqae_coarse_greedy_search to evaluate the coarse decomposition.
 Change the test file to datasets/commaqa_e/compgen_test_eg300.json to evaluate the compositional
 generalization split. 
+
+## Multi-hop Open Domain QA **NEW**
+All the code and experiments for multi-hop open-domain QA can be found in Harsh's Decomp-ODQA repo here:
+
+[https://github.com/HarshTrivedi/DecomP-ODQA] (https://github.com/HarshTrivedi/DecomP-ODQA)
